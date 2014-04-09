@@ -13,8 +13,8 @@ tagline: Sojourns in code
 author :
   name : Jeff Mayeur
   email : jmayeur@gmail.com
-  github : username
-  twitter : @jeffmayeur
+  github : jmayeur
+  twitter : jeffmayeur
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -127,4 +127,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
+markdown: kramdown
